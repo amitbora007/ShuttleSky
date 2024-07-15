@@ -3,7 +3,7 @@ import React from 'react';
 const Home = () => {
     return (
         <div className="tm-section-wrap">
-            <div className="tm-parallax" data-parallax="scroll" data-image-src="img/img-01.jpg"></div>                   
+            <div className="tm-parallax" data-parallax="scroll" data-image-src="assets/img/img-01.jpg"></div>                   
             <section id="home" className="tm-section">
                 <h2 className="tm-text-primary">Welcome to ShuttleSky</h2>
                 <hr className="mb-5"></hr>

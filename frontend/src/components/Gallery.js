@@ -3,7 +3,7 @@ import React from 'react';
 const Gallery = () => {
     return (
             <div className="tm-section-wrap">
-                <div className="tm-parallax" data-parallax="scroll" data-image-src="img/img-02.jpg"></div>                   
+                <div className="tm-parallax" data-parallax="scroll" data-image-src="assets/img/img-02.jpg"></div>                   
                 <section id="gallery" className="tm-section">
                     <h2 className="tm-text-primary">Upright Gallery</h2>
                     <hr className="mb-5"></hr>
@@ -41,255 +41,255 @@ const Gallery = () => {
                     </ul>
                     <div className="tm-gallery">
                         <figure className="effect-honey tm-gallery-item portrait">
-                            <img src="img/gallery/tn/portrait-01.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/portrait-01.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/portrait-01.jpg">View more</a>
+                                <a href="assets/img/gallery/portrait-01.jpg">View more</a>
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item building">
-                            <img src="img/gallery/tn/building-01.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/building-01.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/building-01.jpg">View more</a>						
+                                <a href="assets/img/gallery/building-01.jpg">View more</a>						
                             </figcaption>			
                         </figure>  
                         <figure className="effect-honey tm-gallery-item nature">
-                            <img src="img/gallery/tn/nature-01.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/nature-01.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/nature-01.jpg">View more</a>						
+                                <a href="assets/img/gallery/nature-01.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item animal">
-                            <img src="img/gallery/tn/animal-01.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/animal-01.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/animal-01.jpg">View more</a>						
+                                <a href="assets/img/gallery/animal-01.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item building">
-                            <img src="img/gallery/tn/building-02.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/building-02.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/building-02.jpg">View more</a>						
+                                <a href="assets/img/gallery/building-02.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item nature">
-                            <img src="img/gallery/tn/nature-02.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/nature-02.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/nature-02.jpg">View more</a>						
+                                <a href="assets/img/gallery/nature-02.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item portrait">
-                            <img src="img/gallery/tn/portrait-02.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/portrait-02.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/portrait-02.jpg">View more</a>						
+                                <a href="assets/img/gallery/portrait-02.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item animal">
-                            <img src="img/gallery/tn/animal-02.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/animal-02.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/animal-02.jpg">View more</a>						
+                                <a href="assets/img/gallery/animal-02.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item building">
-                            <img src="img/gallery/tn/building-03.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/building-03.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/building-03.jpg">View more</a>						
+                                <a href="assets/img/gallery/building-03.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item portrait">
-                            <img src="img/gallery/tn/portrait-03.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/portrait-03.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/portrait-03.jpg">View more</a>						
+                                <a href="assets/img/gallery/portrait-03.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item animal">
-                            <img src="img/gallery/tn/animal-03.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/animal-03.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/animal-03.jpg">View more</a>						
+                                <a href="assets/img/gallery/animal-03.jpg">View more</a>						
                             </figcaption>			
                         </figure>  
                         <figure className="effect-honey tm-gallery-item nature">
-                            <img src="img/gallery/tn/nature-03.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/nature-03.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/nature-03.jpg">View more</a>						
+                                <a href="assets/img/gallery/nature-03.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item animal">
-                            <img src="img/gallery/tn/animal-04.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/animal-04.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/animal-04.jpg">View more</a>						
+                                <a href="assets/img/gallery/animal-04.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item building">
-                            <img src="img/gallery/tn/building-04.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/building-04.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/building-04.jpg">View more</a>						
+                                <a href="assets/img/gallery/building-04.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item nature">
-                            <img src="img/gallery/tn/nature-04.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/nature-04.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/nature-04.jpg">View more</a>						
+                                <a href="assets/img/gallery/nature-04.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item portrait">
-                            <img src="img/gallery/tn/portrait-04.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/portrait-04.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/portrait-04.jpg">View more</a>						
+                                <a href="assets/img/gallery/portrait-04.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item animal">
-                            <img src="img/gallery/tn/animal-05.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/animal-05.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/animal-05.jpg">View more</a>						
+                                <a href="assets/img/gallery/animal-05.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item building">
-                            <img src="img/gallery/tn/building-05.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/building-05.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/building-05.jpg">View more</a>						
+                                <a href="assets/img/gallery/building-05.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item portrait">
-                            <img src="img/gallery/tn/portrait-05.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/portrait-05.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/portrait-05.jpg">View more</a>						
+                                <a href="assets/img/gallery/portrait-05.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item nature">
-                            <img src="img/gallery/tn/nature-05.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/nature-05.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/nature-05.jpg">View more</a>						
+                                <a href="assets/img/gallery/nature-05.jpg">View more</a>						
                             </figcaption>			
                         </figure>  
                         <figure className="effect-honey tm-gallery-item nature">
-                            <img src="img/gallery/tn/nature-06.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/nature-06.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/nature-06.jpg">View more</a>						
+                                <a href="assets/img/gallery/nature-06.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item animal">
-                            <img src="img/gallery/tn/animal-06.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/animal-06.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/animal-06.jpg">View more</a>						
+                                <a href="assets/img/gallery/animal-06.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item building">
-                            <img src="img/gallery/tn/building-06.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/building-06.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/building-06.jpg">View more</a>						
+                                <a href="assets/img/gallery/building-06.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item portrait">
-                            <img src="img/gallery/tn/portrait-06.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/portrait-06.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/portrait-06.jpg">View more</a>						
+                                <a href="assets/img/gallery/portrait-06.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item nature">
-                            <img src="img/gallery/tn/nature-07.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/nature-07.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/nature-07.jpg">View more</a>						
+                                <a href="assets/img/gallery/nature-07.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item portrait">
-                            <img src="img/gallery/tn/portrait-07.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/portrait-07.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/portrait-07.jpg">View more</a>						
+                                <a href="assets/img/gallery/portrait-07.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item animal">
-                            <img src="img/gallery/tn/animal-07.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/animal-07.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/animal-07.jpg">View more</a>						
+                                <a href="assets/img/gallery/animal-07.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item building">
-                            <img src="img/gallery/tn/building-07.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/building-07.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/building-07.jpg">View more</a>						
+                                <a href="assets/img/gallery/building-07.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item portrait">
-                            <img src="img/gallery/tn/portrait-08.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/portrait-08.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/portrait-08.jpg">View more</a>						
+                                <a href="assets/img/gallery/portrait-08.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item building">
-                            <img src="img/gallery/tn/building-08.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/building-08.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/building-08.jpg">View more</a>						
+                                <a href="assets/img/gallery/building-08.jpg">View more</a>						
                             </figcaption>			
                         </figure>  
                         <figure className="effect-honey tm-gallery-item nature">
-                            <img src="img/gallery/tn/nature-08.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/nature-08.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/nature-08.jpg">View more</a>						
+                                <a href="assets/img/gallery/nature-08.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item animal">
-                            <img src="img/gallery/tn/animal-08.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/animal-08.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/animal-08.jpg">View more</a>						
+                                <a href="assets/img/gallery/animal-08.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item building">
-                            <img src="img/gallery/tn/building-09.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/building-09.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/building-09.jpg">View more</a>						
+                                <a href="assets/img/gallery/building-09.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item nature">
-                            <img src="img/gallery/tn/nature-09.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/nature-09.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/nature-09.jpg">View more</a>						
+                                <a href="assets/img/gallery/nature-09.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                         <figure className="effect-honey tm-gallery-item portrait">
-                            <img src="img/gallery/tn/portrait-09.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/portrait-09.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/portrait-09.jpg">View more</a>						
+                                <a href="assets/img/gallery/portrait-09.jpg">View more</a>						
                             </figcaption>			
                         </figure>
                         <figure className="effect-honey tm-gallery-item animal">
-                            <img src="img/gallery/tn/animal-09.jpg" alt="Image"/>
+                            <img src="assets/img/gallery/tn/animal-09.jpg" alt="gallery"/>
                             <figcaption>
                                 <h2><i>Dreamy Honey</i></h2>
-                                <a href="img/gallery/animal-09.jpg">View more</a>						
+                                <a href="assets/img/gallery/animal-09.jpg">View more</a>						
                             </figcaption>			
                         </figure> 
                     </div>
