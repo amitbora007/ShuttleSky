@@ -3,7 +3,7 @@ import React from 'react';
 const Services = () => {
     return (
             <div className="tm-section-wrap">
-                <div className="tm-parallax" data-parallax="scroll" data-image-src="assets/img/img-03.jpg"></div>
+                <div className="tm-parallax" data-parallax="scroll" data-image-src="assets/img/img-04.jpg"></div>
                 <section id="services" className="tm-section">
                     <h2 className="tm-text-primary">Services Offered</h2>
                     <hr className="mb-5"></hr>
@@ -29,16 +29,16 @@ const Services = () => {
                             <div className="tm-carousel-item">
                                 <figure className="effect-honey mb-4">
                                     <img src="assets/img/about-01.jpg" alt="Featured Item"></img>
-                                    <figcaption>
+                                    {/* <figcaption>
                                         <ul className="tm-social">
                                             <li><a href="https://facebook.com" className="tm-social-link"><i className="fab fa-facebook"></i></a></li>
                                             <li><a href="https://twitter.com" className="tm-social-link"><i className="fab fa-twitter"></i></a></li>
                                             <li><a href="https://instagram.com" className="tm-social-link"><i className="fab fa-instagram"></i></a></li>
                                         </ul>
-                                    </figcaption>
+                                    </figcaption> */}
                                 </figure>
                                 <div className="tm-about-text">
-                                    <h3 className="mb-3 tm-text-primary tm-about-title">Calvin Walk</h3>
+                                    <h3 className="mb-3 tm-text-primary tm-about-title">Installation</h3>
                                     <p>Aliquam efficitur, velit ut aliquet molestie, nulla dolor faucibus neque, quis hendrerit.</p>
                                     <h4 className="tm-text-secondary tm-about-subtitle">Founder and CEO</h4>
                                 </div>
@@ -47,16 +47,16 @@ const Services = () => {
                             <div className="tm-carousel-item">
                                 <figure className="effect-honey mb-4">
                                     <img src="assets/img/about-02.jpg" alt="Featured Item"></img>
-                                    <figcaption>
+                                    {/* <figcaption>
                                         <ul className="tm-social">
                                             <li><a href="https://facebook.com" className="tm-social-link"><i className="fab fa-facebook"></i></a></li>
                                             <li><a href="https://twitter.com" className="tm-social-link"><i className="fab fa-twitter"></i></a></li>
                                             <li><a href="https://instagram.com" className="tm-social-link"><i className="fab fa-instagram"></i></a></li>
                                         </ul>
-                                    </figcaption>
+                                    </figcaption> */}
                                 </figure>
                                 <div className="tm-about-text">
-                                    <h3 className="mb-3 tm-text-primary tm-about-title">Jenifer Soft</h3>
+                                    <h3 className="mb-3 tm-text-primary tm-about-title">Maintenance</h3>
                                     <p>This is a carousel for a list of 10 team members. Each member image hover has 3 social icons.</p>
                                     <h4 className="tm-text-secondary tm-about-subtitle">Managing Director</h4>
                                 </div>
@@ -65,16 +65,16 @@ const Services = () => {
                             <div className="tm-carousel-item">
                                 <figure className="effect-honey mb-4">
                                     <img src="assets/img/about-03.jpg" alt="Featured Item"></img>
-                                    <figcaption>
+                                    {/* <figcaption>
                                         <ul className="tm-social">
                                             <li><a href="https://facebook.com" className="tm-social-link"><i className="fab fa-facebook"></i></a></li>
                                             <li><a href="https://twitter.com" className="tm-social-link"><i className="fab fa-twitter"></i></a></li>
                                             <li><a href="https://instagram.com" className="tm-social-link"><i className="fab fa-instagram"></i></a></li>
                                         </ul>
-                                    </figcaption>
+                                    </figcaption> */}
                                 </figure>
                                 <div className="tm-about-text">
-                                    <h3 className="mb-3 tm-text-primary tm-about-title">David Rock</h3>
+                                    <h3 className="mb-3 tm-text-primary tm-about-title">Repair</h3>
                                     <p>Aliquam efficitur, velit ut aliquet molestie, nulla dolor faucibus neque, quis hendrerit.</p>
                                     <h4 className="tm-text-secondary tm-about-subtitle">Financial Officer</h4>
                                 </div>

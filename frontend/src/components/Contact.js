@@ -3,7 +3,7 @@ import React from 'react';
 const Contact = () => {
     return (
             <div className="tm-section-wrap">
-                <div className="tm-parallax" data-parallax="scroll" data-image-src="assets/img/img-04.jpg"></div>
+                <div className="tm-parallax" data-parallax="scroll" data-image-src="assets/img/img-05.jpg"></div>
                 <div id="contact" className="tm-section">
                     <h2 className="tm-text-primary">Contact </h2>
                     <hr className="mb-5"></hr>

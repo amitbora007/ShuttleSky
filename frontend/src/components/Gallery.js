@@ -3,9 +3,9 @@ import React from 'react';
 const Gallery = () => {
     return (
             <div className="tm-section-wrap">
-                <div className="tm-parallax" data-parallax="scroll" data-image-src="assets/img/img-02.jpg"></div>                   
+                <div className="tm-parallax" data-parallax="scroll" data-image-src="assets/img/img-03.jpg"></div>                   
                 <section id="gallery" className="tm-section">
-                    <h2 className="tm-text-primary">Upright Gallery</h2>
+                    <h2 className="tm-text-primary">Our Gallery</h2>
                     <hr className="mb-5"></hr>
                     <ul className="tm-gallery-links">
                         <li>
